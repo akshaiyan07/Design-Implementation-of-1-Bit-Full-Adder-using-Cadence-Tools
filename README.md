@@ -1,4 +1,4 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+# EXP#05-Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
 Ex No: 05     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
 Aim:
